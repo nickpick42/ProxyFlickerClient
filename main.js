@@ -14,10 +14,4 @@ class ProxyFlickerClient {
     }
 }
 
-const main = async()=>{
-    let proxyFlickerClient = new ProxyFlickerClient("a8fBAYgNvh")
-    let health = await proxyFlickerClient.health()
-    let reset = await proxyFlickerClient.reset("TzlXxR50z9","quick_reset")
-    console.log(reset)
-}
-main()
+module.exports = ProxyFlickerClient
