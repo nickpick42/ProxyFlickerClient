@@ -1,6 +1,7 @@
 # ProxyFlicker
 Easily control your proxyflicker modem proxies with our sdk
 
+https://proxyflicker.net
 https://github.com/nickpick42/ProxyFlickerClient
 
 ## Installation

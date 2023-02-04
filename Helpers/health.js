@@ -1,7 +1,7 @@
 const axios = require("axios")
 
 const main = async (modemAuthID)=>{
-    return axios("https://backend.proxyflicker.com/api/status",{
+    return axios("https://backend.proxyflicker.net/api/status",{
         method:"get",
         headers:{
             authorization:`Bearer ${modemAuthID}`
