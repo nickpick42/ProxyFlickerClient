@@ -1,7 +1,7 @@
 # ProxyFlicker 
-[ProxyFlicker](https://www.proxyflicker.com/)
+[ProxyFlicker](https://www.proxyflicker.net/)
 
-https://www.proxyflicker.com/
+https://www.proxyflicker.net/
 
 
 Easily control your proxyflicker modem proxies with our sdk
